@@ -1,0 +1,9 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=-1507.000 Y=-294.000 Z=-284.000), Max=(X=-1507.000 Y=-294.000 Z=-284.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/Ana_Men?/Ana_men?
+   |  ActorDescs:
+   |      - Guid:7BC0A65F405309A1090C36A2E583CAAC Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:D9DECD5D4CAC3507186AE0BF3CF7C4D0 Class:AmbientSound Name:AmbientSound_UAID_74563CA5DF0DC9B402_1968000951 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=-1507.000 Y=-294.000 Z=-284.000), Max=(X=-1507.000 Y=-294.000 Z=-284.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
