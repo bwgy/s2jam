@@ -876,3 +876,14 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2026.01.13-10.25.58:621][319]LogFileHelpers: Saving map 'Ana_menü' took 0.050
 [2026.01.13-10.25.58:634][319]AssetCheck: New page: Asset Save: Ana_menü
 [2026.01.13-10.25.58:634][319]LogContentValidation: Display: Validating World /Game/Ana_Menü/Ana_menü.Ana_menü
+[2026.01.13-10.26.56:270][550]LogDerivedDataCache: C:/Users/mehme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.017 and deleted 0 file(s) with total size 0 MiB.
+[2026.01.13-10.31.32:420][ 40]BlueprintLog: New page: Compile Ana_menü
+[2026.01.13-10.31.32:463][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.13-10.31.32:748][ 54]LogFileHelpers: No new changes to save!
+[2026.01.13-10.31.32:749][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ana_Menü/Ana_menü" FILE="../../../../../../SİKİJAM/Content/Ana_Menü/Ana_menü.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.13-10.31.32:776][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.13-10.31.32:782][ 54]LogSavePackage: Moving output files for package: /Game/Ana_Menü/Ana_menü
+[2026.01.13-10.31.32:783][ 54]LogSavePackage: Moving '../../../../../../SİKİJAM/Saved/Ana_menüD493A931490287FA8F8E64ADC7572C90.tmp' to '../../../../../../SİKİJAM/Content/Ana_Menü/Ana_menü.umap'
+[2026.01.13-10.31.32:789][ 54]LogFileHelpers: Saving map 'Ana_menü' took 0.041
+[2026.01.13-10.31.32:802][ 54]AssetCheck: New page: Asset Save: Ana_menü
+[2026.01.13-10.31.32:802][ 54]LogContentValidation: Display: Validating World /Game/Ana_Menü/Ana_menü.Ana_menü
