@@ -5278,3 +5278,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2026.01.13-13.18.35:994][812]LogSavePackage: Moving '../../../../../../S2JAM/s2jam/Saved/Anamenü_wdt1FB9BEE8442A7CC5A09FC78EB086C4C9.tmp' to '../../../../../../S2JAM/s2jam/Content/Ana_Menü/Anamenü_wdt.uasset'
 [2026.01.13-13.18.36:006][812]AssetCheck: New page: Asset Save: Anamenü_wdt
 [2026.01.13-13.18.36:006][812]LogContentValidation: Display: Validating WidgetBlueprint /Game/Ana_Menü/Anamenü_wdt.Anamenü_wdt
+[2026.01.13-13.20.30:869][598]LogSlate: Window 'Save Level As' being destroyed
+[2026.01.13-13.20.31:782][652]LogEditorViewport: Clicking Background
