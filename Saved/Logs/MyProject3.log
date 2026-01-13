@@ -887,3 +887,20 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2026.01.13-10.31.32:789][ 54]LogFileHelpers: Saving map 'Ana_menü' took 0.041
 [2026.01.13-10.31.32:802][ 54]AssetCheck: New page: Asset Save: Ana_menü
 [2026.01.13-10.31.32:802][ 54]LogContentValidation: Display: Validating World /Game/Ana_Menü/Ana_menü.Ana_menü
+[2026.01.13-10.35.47:209][193]LogFileHelpers: No new changes to save!
+[2026.01.13-10.35.47:209][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ana_Menü/Ana_menü" FILE="../../../../../../SİKİJAM/Content/Ana_Menü/Ana_menü.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.13-10.35.47:241][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.13-10.35.47:247][193]LogSavePackage: Moving output files for package: /Game/Ana_Menü/Ana_menü
+[2026.01.13-10.35.47:248][193]LogSavePackage: Moving '../../../../../../SİKİJAM/Saved/Ana_menü41A57712408ECB7F13E32D9813AD942B.tmp' to '../../../../../../SİKİJAM/Content/Ana_Menü/Ana_menü.umap'
+[2026.01.13-10.35.47:254][193]LogFileHelpers: Saving map 'Ana_menü' took 0.045
+[2026.01.13-10.35.47:265][193]AssetCheck: New page: Asset Save: Ana_menü
+[2026.01.13-10.35.47:265][193]LogContentValidation: Display: Validating World /Game/Ana_Menü/Ana_menü.Ana_menü
+[2026.01.13-10.35.47:603][214]BlueprintLog: New page: Compile Ana_menü
+[2026.01.13-10.35.47:644][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.13-10.35.48:401][256]LogFileHelpers: No new changes to save!
+[2026.01.13-10.35.48:401][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ana_Menü/Ana_menü" FILE="../../../../../../SİKİJAM/Content/Ana_Menü/Ana_menü.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.13-10.35.48:429][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.13-10.35.48:435][256]LogSavePackage: Moving output files for package: /Game/Ana_Menü/Ana_menü
+[2026.01.13-10.35.48:436][256]LogSavePackage: Moving '../../../../../../SİKİJAM/Saved/Ana_menüE6E3932943F407F73B1008B396E0DCD4.tmp' to '../../../../../../SİKİJAM/Content/Ana_Menü/Ana_menü.umap'
+[2026.01.13-10.35.48:454][256]AssetCheck: New page: Asset Save: Ana_menü
+[2026.01.13-10.35.48:454][256]LogContentValidation: Display: Validating World /Game/Ana_Menü/Ana_menü.Ana_menü
